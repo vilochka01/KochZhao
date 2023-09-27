@@ -1,3 +1,7 @@
+#Кол-во разработчиков - 1
+#Кол-во веток - 1
+#Регулярность использования - 2
+#Кол-во копирований - 1
 from PIL import Image
 
 # function to convert a character to its binary representation
